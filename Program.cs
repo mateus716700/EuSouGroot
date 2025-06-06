@@ -2,7 +2,8 @@
 bool groot = true;
 string resposta;
  Console.WriteLine("--- Groot Chatbot ---");
- Console.WriteLine(" caso queira parar o chatbot digite "tchau");
+ Console.WriteLine(" caso queira parar o chatbot digite "tchau"");
+ 
 while (groot)
 {
 
